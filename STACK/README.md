@@ -65,5 +65,14 @@ s.top();
 returns the topmost element from stack s.
 same as pop here also above if cond is necessary as if stack s is empty,
  there is no topmost element.
+
+#### size()
+```
+s.size();
+```
+it return the size of stack s.
+
+# [go to all topics](https://journey-cp.github.io/LEARN)
+
  
 

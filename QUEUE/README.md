@@ -78,3 +78,6 @@ here I neglected but check for emptiness always..
 
 ### size
 ```Q.size``` returns the size of QUEUE
+
+# [go to all topics](https://journey-cp.github.io/LEARN)
+
