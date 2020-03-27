@@ -23,40 +23,47 @@ if <bits/stdc++.h> is used it is not necessary.
 ```
 ### main()
 ```
-in main() ,first we declare stack as "stack <int> s"
-i.e now stack named as s is created.
+stack <int> s;
 ```
+in main() ,first we declare stack as 
+stack <int> s;
+i.e now stack named as s is created.
+
 ### functions:
 
 #### isempty() 
 ```
 return s.empty();
+```
  ..return 1,if s is empty.
  ..retun 0,if s is notempty.
- ```
+ 
 #### push(x) 
 ```
 s.push(x);
-inserts element x into top of stack s.
 ```
+inserts element x into top of stack s.
+
 #### pop()
 ```
 if(!isempty()) 
 {
 s.pop();
 }
+```
 deletes element from top of stack s.
 above if condition is important bcoz if stack s is empty there is no element to delete,
 so if we didnt write if(!isempty()) condition we ill get runtime error.
-```
+
 #### top()
 ```
 if(!isempty())
 {
 s.top();
 }
+```
 returns the topmost element from stack s.
 same as pop here also above if cond is necessary as if stack s is empty,
  there is no topmost element.
- ```
+ 
 
