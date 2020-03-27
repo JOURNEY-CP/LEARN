@@ -1,9 +1,9 @@
-#QUEUE
+# QUEUE
 
-##THEORY
+## THEORY
 
 
-##IMPLEMENTATION USING C++ STL
+## IMPLEMENTATION USING C++ STL
 
-###HEADER FILE
-'''#include<queue>'''
+### HEADER FILE
+''' #include<queue> '''
