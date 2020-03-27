@@ -49,6 +49,9 @@ if(!Q.empty())
 	Q.pop();
 ```
 
+
+
+
 *we cant do like this*
 ```
 P=Q.pop();
