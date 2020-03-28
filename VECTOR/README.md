@@ -17,7 +17,8 @@ If there are arrays then why a vector?
 ## How to use vectors?
 
 ## 1.How is a vector defined?
-    vector is a template which is included in stl(standard template library).
+vector is a template which is included in stl 
+
 template:
 ```
 vector<int> v1;
