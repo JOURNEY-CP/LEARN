@@ -27,3 +27,4 @@ Insertion , Deletion , Accessing mapped value take O(log N) time as hash map is 
 
 For a better understanding try solving [this problem](https://practice.geeksforgeeks.org/problems/twice-counter/0)
 Though this might be solved by some other techniques , try solving this using hash maps
+# [go to all topics](https://journey-cp.github.io/LEARN)
