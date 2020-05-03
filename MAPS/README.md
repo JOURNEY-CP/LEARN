@@ -19,11 +19,7 @@ Some basic functions of map are insertion of key-value pair,deletion of given ke
 - Iteration :
 ```
 for(auto it=m.begin();it!=m.end();++it){
-<<<<<<< HEAD
 	cout << it->first << ' ' << it->second << '\n' ;	
-=======
-cout << it->first << ' ' << it->second << '\n' ;	
->>>>>>> fc5ebef4f46aa8387bb01549acfb2706f0c44a19
 }
 ```
 Note : In the above code , the keyword auto automates the task of determining the suitable data type of variable it , the data type of "it" is an iterator to stl::map i.e., 
