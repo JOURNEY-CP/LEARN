@@ -5,7 +5,10 @@ Map i.e., Hash Table is a data structure which stores mapped values of given key
 Some basic functions of map are insertion of key-value pair,deletion of given key value,iteration of data structure
 
 ## HEADER FILE
-```#include<map>```
+use
+```
+#include<map>
+```
 
 ## INITIATING
 
