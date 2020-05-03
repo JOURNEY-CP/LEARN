@@ -18,9 +18,9 @@ Some basic functions of map are insertion of key-value pair,deletion of given ke
  ```m.erase(key);```
 - Iteration :
 ```
-	for(auto it=m.begin();it!=m.end();++it){
-		cout << it->first << ' ' << it->second << '\n' ;	
-	}
+for(auto it=m.begin();it!=m.end();++it){
+	cout << it->first << ' ' << it->second << '\n' ;	
+}
 ```
   Note : In the above code , the keyword auto automates the task of determining the suitable data type of variable it , the data type of "it" is an iterator to stl::map i.e., 
   ```map<int,int>::iterator```. It does so in compile time , hence not effecting run time of program .
